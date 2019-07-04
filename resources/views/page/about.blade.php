@@ -124,54 +124,85 @@
 							<li>
 									<div class="collapsible-header">Anggaran Dasar</div>
 									<div class="collapsible-body">
-											<p>Ø Mewujudkan kesadaran, kebersamaan dan persatuan kesatuan bangsa Indonesia.
+											<p class="center">
+												ATAS BERKAT RAHMAT ALLAH YANG MAHA KUASA <br>
+												<br>
+												ANGGARAN DASAR <br>
+												PERSAUDARAAN CINTA TANAH AIR INDONESIA <br>
+												YANG DIJIWAI MANUNGGALNYA KEIMANAN DAN KEMANUSIAAN <br>
+												PEMBUKAAN
 											</p>
-											<p>Ø Menjadikan manusia Indonesia yang bersyukur kepada Tuhan Yang Maha Esa dengan adanya
-													NKRI.
-											</p>
-											<p>Ø Mempunyai rasa wajib membela terhadap Tanah Air Indonesia demi terpeliharanya
-													kelangsungan hidup bangsa dan negara.
-											</p>
-											<p>Ø Mempertinggi rasa rakyat (apresiasi) terhadap keragaman budaya sebagai rahmat dari
-													Tuhan Yang Maha Kuasa.
+											<p style="text-align: justify;">
+												Bahwa demi terwujudnya bangsa Indonesia yang cinta tanah airnya, maka persoalan cinta tanah air adalah menjadi tanggung jawab azasi setiap pribadi warga negara Indonesia beserta segenap masyarakat bangsa Indonesia. Penyelenggaraan Seminar Sutasoma yang diprakarsai oleh Pesantren Majmaal Bahrain Shiddiqiyyah Losari Ploso Jombang dalam kaitan peningkatan cinta tanah air telah membangkitkan jiwa dan semangat cinta tanah air Indonesia serta menyatukan tekad kebangsaan untuk menghantarkan cita-cita dan harapan bagi terwujudnya Indonesia Raya.
+												<br> <br>
+												Atas Berkat Rahmat Allah Yang Maha Kuasa dan dengan didorong oleh keinginan luhur untuk menanamkan nilai-nilai cinta tanah air sebagai bagian dari iman, menyelenggarakan pendidikan cinta tanah air dalam arti yang seluas-luasnya, melestarikan nilai-nilai cinta tanah air serta melestarikan nilai-nilai luhur budaya bangsa Indonesia, maka dengan ini dideklarasikan Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan Dan Kemanusiaan.
+												<br> <br>
+												Kemudian untuk membentuk wadah yang menumbuhkembangkan kesadaran berbangsa dan bernegara, menjaga persatuan kesatuan bangsa, berperan aktif dalam mensejahterakan bangsa Indonesia, rasa wajib membela tanah air Indonesia demi kelangsungan hidup bangsa dan negara, serta menjadikan manusia Indonesia bersyukur kepada Tuhan Yang Maha Esa dengan adanya Bangsa dan Negara Kesatuan Republik Indonesia, maka dibentuklah Organisasi yang dinamakan Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan dan Kemanusiaan.
+												<br> <br>
+												Selengkapnya bisa diundung <a href="http://pcta-indonesia.org/wp-content/uploads/2018/08/AD-PCTA-Indonesia-copy.pdf"> DISINI</a>
 											</p>
 									</div>
 							</li>
 							<li>
 									<div class="collapsible-header">Anggaran Rumah Tangga</div>
 									<div class="collapsible-body">
-											<p>A. Jangka Pendek
-											</p>
-											<p>1. Membidani lahirnya Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya
-													Keimanan dan Kemanusiaan.
-											</p>
-											<p>2. Menetapkan rencana deklarasi berdirinya Persaudaraan Cinta Tanah Air Indonesia Yang
-													Dijiwai Manunggalnya Keimanan dan Kemanusiaan.
-											</p>
+										<p class="center">
+											ATAS BERKAT RAHMAT ALLAH YANG MAHA KUASA <br>
 											<br>
-											<p>B. Jangka Menengah
-											</p>
-											<p>1. Menyosialisasikan/mempraktekkan nilai-nilai Cinta Tanah Air.
-											</p>
-											<p>2. Merekomendasikan model penyelenggaraan pendidikan Cinta Tanah Air Indonesia berseta
-													implementasinya.
-											</p>
-											<p>3. Membidani pusat pengkajian ilmiah Cinta Tanah Air Indonesia.
-											</p>
-											<p>4. Memproses kristalisasi nilai-nilai luhur budaya bangsa.
-											</p>
+											ANGGARAN RUMAH TANGGA <br>
+											PERSAUDARAAN CINTA TANAH AIR INDONESIA <br>
+											YANG DIJIWAI MANUNGGALNYA KEIMANAN DAN KEMANUSIAAN <br>
 											<br>
-											<p>C. Jangka Panjang</p>
-											<p>1. Pembudayaan nilai-nilai luhur Cinta Tanah Air Indonesia.
-											</p>
-											<p>2. Menghasilkan kader-kader bangsa yang berjiwa, berhatinurani, berperilaku syukur atas
-													Tanah Air Indonesia.
-											</p>
-											<p>3. Memberikan kontribusi rekomendasi kepada Pemerintah dan wakil rakyat, baik di pusat
-													maupun di daerah khususnya hasil kristalisasi nilai-nilai luhur Cinta Tanah Air
-													Indonesia.</p>
-											<p>4. Pembudayaan nilai-nilai luhur budaya bangsa.
-											</p>
+											BAB I <br>
+											NAMA DAN SEBUTAN ORGANISASI <br>
+											<br>
+											Pasal 1 <br>
+											Nama Organisasi <br>
+										</p>
+										<p style="text-align: justify;">
+											Organisasi ini bernama Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan Dan Kemanusiaan.
+										</p>
+										<p class="center">
+											Pasal 2
+											Sebutan Organisasi
+										</p>
+										<p style="text-align: justify;">
+											Dalam penyelenggaraan administrasi, sosialisasi dan komunikasi serta pengembangan informasi baik di lingkungan pengurus dan anggota maupun kepada pihak lu ar, Organisasi Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan Dan Kemanusiaan diperbolehkan menyebut nama organisasi:
+											<br> <br>
+													1 .Secara lengkap yaitu Organisasi Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan Dan Kemanusiaan atau <br>
+													2. Secara Singkat dengan sebutan PCTA Indonesia <br>
+										</p>
+										<p class="center">
+											BAB II
+											PEMRAKARSA DAN PENDIRI ORGANISASI
+											
+											Pasal 3
+											Pemrakarsa
+										</p>
+										<p style="text-align: justify;">
+												Pemrakarsa Organisasi Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan Dan  Kemanusiaan adalah Romo Kyai Muhammad Mucthar Mu’thi Pimpinan Pesantren Majmaal Bahrain Shiddiqiyyah Losari Ploso Jombang.
+										</p>
+										<p class="center">
+											Pasal 4
+											Pendiri
+										</p>
+										<p style="text-align: justify;">
+											Pendiri organisasi persaudaraan cinta tanah air Indonesia yang dijiwai manunggalnya keimanan dan kemanusiaan adalah:
+											Romo Kyai Muhammad Mucthar Mu’thi : Tokoh Islam Jombang
+											Bapak Masruchan Mu’thi : Tokoh Islam Jombang
+											Bapak Muhammad Munif : Tokoh Islam Jombang
+											Bapak Wady Sutikno : Budayawan Islam Jombang
+											Bapak Kyai Mudzakkir : Tokoh Islam Tulungagung
+											Bapak DR. Aris Soviyani, M.Hum : Kepala Balai Purbakala Trowulan Jatim
+											Romo Wisnu Sugiman, S.Pd : Tokoh Katolik Mojokerto
+											Bapak Drs. Soejono A. Soekemi : Intelektual Jakarta
+											Bapak Ir. Edi Setiawan, SE,MSi : Intelektual Surabaya
+											Bapak Ir. Suparman : Pengusaha Surabaya
+											Bapak I. Dewa Nyoman S. Hartana : Bogor
+											Bapak Drs. Kustomo, M.Pd. : Pendidik Mojokerto
+											<br> <br>
+											Selengkapnya bisa diunduh <a href="http://pcta-indonesia.org/wp-content/uploads/2018/08/ART-PCTA-Indonesia-copy.pdf">DISINI</a> 
+										</p>		
 									</div>
 							</li>
 							<li>
@@ -418,12 +449,84 @@
 									</div>
 									<div id="social" style="font-size: 18px;" class="tab-content">Anggaran Dasar
 											<div class="tbitk">
-													{{-- <img src="image/pict4.jpg" class="responsive-img" alt=""> --}}
+													<p class="center">
+														ATAS BERKAT RAHMAT ALLAH YANG MAHA KUASA <br>
+														<br>
+														ANGGARAN DASAR <br>
+														PERSAUDARAAN CINTA TANAH AIR INDONESIA <br>
+														YANG DIJIWAI MANUNGGALNYA KEIMANAN DAN KEMANUSIAAN <br>
+														PEMBUKAAN
+													</p>
+													<p style="text-align: justify;">
+														Bahwa demi terwujudnya bangsa Indonesia yang cinta tanah airnya, maka persoalan cinta tanah air adalah menjadi tanggung jawab azasi setiap pribadi warga negara Indonesia beserta segenap masyarakat bangsa Indonesia. Penyelenggaraan Seminar Sutasoma yang diprakarsai oleh Pesantren Majmaal Bahrain Shiddiqiyyah Losari Ploso Jombang dalam kaitan peningkatan cinta tanah air telah membangkitkan jiwa dan semangat cinta tanah air Indonesia serta menyatukan tekad kebangsaan untuk menghantarkan cita-cita dan harapan bagi terwujudnya Indonesia Raya.
+														<br> <br>
+														Atas Berkat Rahmat Allah Yang Maha Kuasa dan dengan didorong oleh keinginan luhur untuk menanamkan nilai-nilai cinta tanah air sebagai bagian dari iman, menyelenggarakan pendidikan cinta tanah air dalam arti yang seluas-luasnya, melestarikan nilai-nilai cinta tanah air serta melestarikan nilai-nilai luhur budaya bangsa Indonesia, maka dengan ini dideklarasikan Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan Dan Kemanusiaan.
+														<br> <br>
+														Kemudian untuk membentuk wadah yang menumbuhkembangkan kesadaran berbangsa dan bernegara, menjaga persatuan kesatuan bangsa, berperan aktif dalam mensejahterakan bangsa Indonesia, rasa wajib membela tanah air Indonesia demi kelangsungan hidup bangsa dan negara, serta menjadikan manusia Indonesia bersyukur kepada Tuhan Yang Maha Esa dengan adanya Bangsa dan Negara Kesatuan Republik Indonesia, maka dibentuklah Organisasi yang dinamakan Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan dan Kemanusiaan.
+														<br> <br>
+														Selengkapnya bisa diundung <a href="http://pcta-indonesia.org/wp-content/uploads/2018/08/AD-PCTA-Indonesia-copy.pdf"> DISINI</a>
+													</p>
 											</div>
 									</div>
 									<div id="organisasi" style="font-size: 18px;" class="tab-content">Anggaran Rumah Tangga
 											<div class="tbitk">
-													{{-- <img src="image/pict5.jpg" class="responsive-img" alt=""> --}}
+													<p class="center">
+														ATAS BERKAT RAHMAT ALLAH YANG MAHA KUASA <br>
+														<br>
+														ANGGARAN RUMAH TANGGA <br>
+														PERSAUDARAAN CINTA TANAH AIR INDONESIA <br>
+														YANG DIJIWAI MANUNGGALNYA KEIMANAN DAN KEMANUSIAAN <br>
+														<br>
+														BAB I <br>
+														NAMA DAN SEBUTAN ORGANISASI <br>
+														<br>
+														Pasal 1 <br>
+														Nama Organisasi <br>
+													</p>
+													<p style="text-align: justify;">
+														Organisasi ini bernama Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan Dan Kemanusiaan.
+													</p>
+													<p class="center">
+														Pasal 2
+														Sebutan Organisasi
+													</p>
+													<p style="text-align: justify;">
+														Dalam penyelenggaraan administrasi, sosialisasi dan komunikasi serta pengembangan informasi baik di lingkungan pengurus dan anggota maupun kepada pihak lu ar, Organisasi Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan Dan Kemanusiaan diperbolehkan menyebut nama organisasi:
+														<br> <br>
+																1 .Secara lengkap yaitu Organisasi Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan Dan Kemanusiaan atau <br>
+																2. Secara Singkat dengan sebutan PCTA Indonesia <br>
+													</p>
+													<p class="center">
+														BAB II
+														PEMRAKARSA DAN PENDIRI ORGANISASI
+														
+														Pasal 3
+														Pemrakarsa
+													</p>
+													<p style="text-align: justify;">
+															Pemrakarsa Organisasi Persaudaraan Cinta Tanah Air Indonesia Yang Dijiwai Manunggalnya Keimanan Dan  Kemanusiaan adalah Romo Kyai Muhammad Mucthar Mu’thi Pimpinan Pesantren Majmaal Bahrain Shiddiqiyyah Losari Ploso Jombang.
+													</p>
+													<p class="center">
+														Pasal 4
+														Pendiri
+													</p>
+													<p style="text-align: justify;">
+														Pendiri organisasi persaudaraan cinta tanah air Indonesia yang dijiwai manunggalnya keimanan dan kemanusiaan adalah:
+														Romo Kyai Muhammad Mucthar Mu’thi : Tokoh Islam Jombang
+														Bapak Masruchan Mu’thi : Tokoh Islam Jombang
+														Bapak Muhammad Munif : Tokoh Islam Jombang
+														Bapak Wady Sutikno : Budayawan Islam Jombang
+														Bapak Kyai Mudzakkir : Tokoh Islam Tulungagung
+														Bapak DR. Aris Soviyani, M.Hum : Kepala Balai Purbakala Trowulan Jatim
+														Romo Wisnu Sugiman, S.Pd : Tokoh Katolik Mojokerto
+														Bapak Drs. Soejono A. Soekemi : Intelektual Jakarta
+														Bapak Ir. Edi Setiawan, SE,MSi : Intelektual Surabaya
+														Bapak Ir. Suparman : Pengusaha Surabaya
+														Bapak I. Dewa Nyoman S. Hartana : Bogor
+														Bapak Drs. Kustomo, M.Pd. : Pendidik Mojokerto
+														<br> <br>
+														Selengkapnya bisa diunduh <a href="http://pcta-indonesia.org/wp-content/uploads/2018/08/ART-PCTA-Indonesia-copy.pdf">DISINI</a> 
+													</p>
 											</div>
 									</div>
 									<div id="pariwisata" style="font-size: 18px;" class="tab-content">Dewan Penyantun
