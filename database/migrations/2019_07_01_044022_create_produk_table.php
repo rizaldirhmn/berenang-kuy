@@ -19,7 +19,7 @@ class CreateProdukTable extends Migration
             $table->string('slug');
             $table->string('caption');
             $table->text('deskripsi');
-            $table->string('video');
+            $table->string('video')->nullable();
             $table->string('path');
             $table->timestamps();
         });
