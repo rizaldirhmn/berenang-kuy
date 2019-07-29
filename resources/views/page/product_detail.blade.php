@@ -28,7 +28,7 @@
 										</div>
 								</div>
 								<div class="pictartikel">
-										<img src="{{ asset('image/obat/1.jpg') }}" alt="" class="responsive-img">
+										<img src="{{ asset('uploads/product/'.$getProduct->path) }}" alt="" class="responsive-img">
 										<div class="caption center">
 												<i style="font-size: 10px;">{{ $getProduct->caption }}</i>
 										</div>
